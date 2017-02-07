@@ -1,4 +1,4 @@
-///// Arc Draw by Hexagons
+///// Arc Draw by hexagons.se
 
 
 //// setup
